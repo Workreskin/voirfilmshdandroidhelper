@@ -1,4 +1,3 @@
-com.voirfilmshdandroidhelper.BoubkerAsDev
 {
   "ADS": {
 
